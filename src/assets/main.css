@@ -3,4 +3,5 @@
 
 @theme {
   --default-font-family: "Roboto", sans-serif; 
+  --color-stone-850: oklch(0.28 0.01 0);
 }
