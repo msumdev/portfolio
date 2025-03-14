@@ -141,6 +141,22 @@
           <p class="text-neutral-400"><i class="fa-brands fa-github text-xl pr-2"></i> Open in GitHub</p>
         </div>
       </a>
+      <a href="https://github.com/msumdev/twitch-video-archive-service" target="_blank" class="col-span-3 md:col-span-1 bg-stone-800 hover:bg-stone-850 rounded-lg p-4 flex flex-col">
+        <p class="text-lg font-bold">Twitch Video Archive Service</p>
+        <p class="text-neutral-500 text-wrap mt-2 mb-4">
+          Twitch mute portions of a video depending on if it violates DMCA, this project solves that problem by listening for an online event subscription, then acting as a user to record the footage
+        </p>
+        <div class="flex flex-wrap gap-2 pt-2">
+          <div class="border-2 px-4 py-1 border-blue-400 rounded-full text-sm">php 8.2</div>
+          <div class="border-2 px-4 py-1 border-blue-400 rounded-full text-sm">laravel</div>
+          <div class="border-2 px-4 py-1 border-blue-400 rounded-full text-sm">redis</div>
+          <div class="border-2 px-4 py-1 border-blue-400 rounded-full text-sm">docker</div>
+        </div>
+
+        <div class="mt-auto pt-4">
+          <p class="text-neutral-400"><i class="fa-brands fa-github text-xl pr-2"></i> Open in GitHub</p>
+        </div>
+      </a>
     </div>
   </section>
 </template>
