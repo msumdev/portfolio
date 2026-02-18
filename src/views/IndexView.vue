@@ -7,7 +7,7 @@
 
     <p class="text-neutral-500 w-full max-w-[100%] lg:max-w-[60%] text-center lg:text-left">I'm a software engineer based in the United Kingdom with experience across a variety of projects and programming languages. I specialize in building, modernizing, and maintaining backends, ensuring scalable, efficient, and high-performing systems.</p>
   </section>
-  
+
   <section id="professional-work">
     <p class="text-neutral-400 pt-8 pb-4"><i class="fa-solid fa-arrow-down mr-4"></i> Professional Work</p>
     <div class="grid grid-cols-3 gap-8">
@@ -55,7 +55,7 @@
       </article>
     </div>
   </section>
-  
+
   <section id="personal-projects">
     <p class="text-neutral-400  pt-8"><i class="fa-solid fa-arrow-down mr-4"></i> Personal Projects</p>
     <div class="grid grid-cols-3 gap-8 pt-8">
@@ -106,7 +106,7 @@
           <p class="text-neutral-400"><i class="fa-brands fa-github text-xl pr-2"></i> Open in GitHub</p>
         </div>
       </a>
-      <a href="https://github.com/msumdev/social-media-app" target="_blank" class="col-span-3 md:col-span-1 bg-stone-800 hover:bg-stone-850 rounded-lg p-4 flex flex-col">
+      <a href="https://meetzy.net/" target="_blank" class="col-span-3 md:col-span-1 bg-stone-800 hover:bg-stone-850 rounded-lg p-4 flex flex-col">
         <p class="text-lg font-bold">Social Media Application</p>
         <p class="text-neutral-500 text-wrap mt-2 mb-4">
           A social media application that is designed to assist with language learning and bring social media back to what it should be
@@ -123,7 +123,7 @@
         </div>
 
         <div class="mt-auto pt-4">
-          <p class="text-neutral-400"><i class="fa-brands fa-github text-xl pr-2"></i> Open in GitHub</p>
+          <p class="text-neutral-400"><i class="fa-brands fa-github text-xl pr-2"></i> Visit Website</p>
         </div>
       </a>
       <a href="https://github.com/msumdev/speech-service" target="_blank" class="col-span-3 md:col-span-1 bg-stone-800 hover:bg-stone-850 rounded-lg p-4 flex flex-col">
